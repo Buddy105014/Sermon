@@ -1,0 +1,105 @@
+body
+{
+margin: 0px 0px;
+padding: 0px 0px;
+display: block
+}
+
+a
+{
+text-decoration: none;
+}
+
+.text
+{
+color: black;
+}
+
+.heading
+{
+text-align: center;
+color: #870080;
+}
+
+hr
+{
+border: 2px solid black;
+}
+
+#contact
+{
+width: 100%;
+top: 1400px;
+background-color: #bdbdbd;
+position: absolute;
+margin: 0px;
+padding: 15px 0px;
+left: 0px;
+text-align: center;
+}
+
+#sermon
+{
+position: absolute;
+width: 500px;
+height: 280px;
+left: 10px;
+}
+
+#links
+{
+position: absolute;
+left: 545px;
+top: 1110px;
+margin: 5px 4px;
+font-size: 30px;
+}
+
+textarea
+{
+height: 50px;
+}
+
+#buttons
+{
+text-align: center;
+margin: 0px 0px;
+padding: 15px 15px;
+border: none;
+background-color: #dedede;
+}
+
+h3
+{
+font-size: 50px;
+}
+
+#Top
+{
+background-color: #dedede;
+margin: 0px 0px;
+border: 0px;
+padding: 0px 0px;
+}
+
+#Main
+{
+position: relative;
+width: 1518px;
+}
+
+#Name
+{
+color: yellow;
+top: 285px;
+left: 215px;
+position: absolute;
+}
+
+#Do
+{
+color: yellow;
+top: 335px;
+left: 190px;
+position: absolute;
+}
