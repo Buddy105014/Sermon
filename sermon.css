@@ -4,6 +4,11 @@ margin: 0;
 border: none;
 }
 
+#break
+{
+text-align: center;
+}
+
 #question
 {
 position: absolute;
