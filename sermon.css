@@ -9,11 +9,9 @@ border: none;
 text-align: center;
 }
 
-#question
+#question #job
 {
 position: absolute;
-top: 60px;
-left: 660px;
 }
 
 .section
@@ -157,9 +155,14 @@ margin-top: 2rem;
 }
 }
 
-#job
+.series
 {
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
   position: absolute;
-top: 60px;
-left: 660px;
+  display: flex;
+  flex-direction: column;
 }
