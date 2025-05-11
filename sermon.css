@@ -3,6 +3,17 @@
 margin: 0;
 border: none;
 }
+.series
+{
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
 
 #break
 {
@@ -155,16 +166,4 @@ display: none;
 {
 margin-top: 2rem;
 }
-}
-
-.series
-{
-  top: 0px;
-  left: 0px;
-  margin: 0px;
-  padding: 0px;
-  width: 100%;
-  position: absolute;
-  display: flex;
-  flex-direction: column;
 }
