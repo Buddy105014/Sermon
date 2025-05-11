@@ -10,7 +10,6 @@ border: none;
   margin: 0px;
   padding: 0px;
   width: 100%;
-  position: absolute;
   display: flex;
   flex-direction: column;
 }
@@ -20,9 +19,8 @@ border: none;
 text-align: center;
 }
 
-#question #job
+#question, #job
 {
-  position: absolute;
   display: flex;
   flex-direction: row;
 }
