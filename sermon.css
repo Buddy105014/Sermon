@@ -156,3 +156,10 @@ display: none;
 margin-top: 2rem;
 }
 }
+
+#Job
+{
+  position: absolute;
+top: 60px;
+left: 660px;
+}
