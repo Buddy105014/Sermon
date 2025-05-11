@@ -11,7 +11,9 @@ text-align: center;
 
 #question #job
 {
-position: absolute;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
 }
 
 .section
