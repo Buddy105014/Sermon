@@ -26,6 +26,7 @@ border: none;
 
 .text
 {
+  left: 50px;
   position: absolute;
   top: 50%;
   display: grid;
