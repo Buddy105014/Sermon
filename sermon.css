@@ -44,6 +44,7 @@ text-align: center;
 {
   display: flex;
   flex-direction: row;
+  border-color: #82d3ff;
 }
 
 .name-pic
