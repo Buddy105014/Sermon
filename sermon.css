@@ -16,7 +16,7 @@ border: none;
 
 .text
 {
-  top: 50%;
+  top: 50px;
   display: flex;
   flex-direction: column;
   text-align: center;
