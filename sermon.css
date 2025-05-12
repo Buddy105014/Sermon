@@ -3,6 +3,7 @@
 margin: 0;
 border: none;
 }
+
 .series
 {
   top: 0px;
@@ -12,6 +13,7 @@ border: none;
   width: 100%;
   display: flex;
   flex-direction: column;
+  padding: 50px;
 }
 
 #question-text
