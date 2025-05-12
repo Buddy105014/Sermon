@@ -18,6 +18,7 @@ border: none;
 {
   display: flex;
   flex-direction: column;
+  color: black;
 }
 
 #break
